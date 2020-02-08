@@ -1,0 +1,13 @@
+Class: wall_calendar
+
+Attributes:
+* material (string)
+* colour (boolean)
+* days_in_month (integer)
+* month_name (string)
+
+Methods:
+* display_current_month (show month name)
+* total_days_of_current_month (show total days in the month)
+* is_clour_print (yes, colour attribute)
+* display_material (show material)
