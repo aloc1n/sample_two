@@ -9,5 +9,5 @@
 * **Integers** - is a whole number and can be be positive, negative, or zero. They are never a fraction, nor have have decimal places.  
 * **Floats** - are numbers that contain _floating_ decimal points. They can be positive or negative.  
 * **Boolean** - is either true or false.  
-* **Array** - is a data structure that represents a _group of things_. It is an ordered, indexed collection of data in a row and each one is numbered starting from zero. Arrays are _written in square brackets_ ``"[data type one, data type two, data type three]"`` in code.  
+* **Array** - is a data structure that represents a _group of things_. It is an ordered, indexed collection of data in a row and each one is numbered starting from zero. Arrays are _written in square brackets_ in code, for example ``"[data type one, data type two, data type three]"``.  
 * **Syntax** - is the way we write. It is the set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in that language.  
